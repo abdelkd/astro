@@ -1,5 +1,11 @@
 # @astrojs/node
 
+## 8.3.1
+
+### Patch Changes
+
+- [#11261](https://github.com/withastro/astro/pull/11261) [`f5f8ed2`](https://github.com/withastro/astro/commit/f5f8ed275b76adfb11b7c3c1e800753a25416498) Thanks [@matthewp](https://github.com/matthewp)! - Fix backwards compat with Astro <= 4.9
+
 ## 8.3.0
 
 ### Minor Changes
